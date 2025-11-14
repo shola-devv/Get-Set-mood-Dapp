@@ -21,4 +21,3 @@ export const MoodContractABI = [
   }
 ];
 
-const details = ""
