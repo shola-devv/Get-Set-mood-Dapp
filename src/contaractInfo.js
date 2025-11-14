@@ -20,3 +20,5 @@ export const MoodContractABI = [
     "type": "function"
   }
 ];
+
+const details = ""
