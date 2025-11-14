@@ -1,4 +1,4 @@
-export const MoodContractAddress = "PASTE_YOUR_DEPLOYED_CONTRACT_ADDRESS_HERE";
+export const MoodContractAddress = "";
 
 export const MoodContractABI = [
   {
